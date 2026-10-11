@@ -1,0 +1,35 @@
+field,role_predictive_protocol,unit,civilian_constant_filled,source_definition_status
+Estatura,input,mm,False,Original landmark/source mapping requires author confirmation
+Peso,excluded_mass,hg,True,Original landmark/source mapping requires author confirmation
+Tobillo_circunferencia,target,mm,True,Original landmark/source mapping requires author confirmation
+Maleolo_lateral_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Tobillo_talon_circunferencia,target,mm,True,Original landmark/source mapping requires author confirmation
+Talon_anchura,target,mm,True,Original landmark/source mapping requires author confirmation
+Pie_circunferencia,target,mm,True,Original landmark/source mapping requires author confirmation
+Pie_anchura,target,mm,True,Original landmark/source mapping requires author confirmation
+Pie_longitud,input,mm,False,Original landmark/source mapping requires author confirmation
+Bimaleolar_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Pantorrilla_circunferencia,target,mm,True,Original landmark/source mapping requires author confirmation
+Pantorrilla_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Pantorrilla_longitud,target,mm,True,Original landmark/source mapping requires author confirmation
+Rodilla_circunferencia,target,mm,True,Original landmark/source mapping requires author confirmation
+Rotula_medial_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Epicondilo_femoral_lat_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Muslo_circunferencia_distal,target,mm,True,Original landmark/source mapping requires author confirmation
+Muslo_circunferencia_proximal,target,mm,True,Original landmark/source mapping requires author confirmation
+Muslo_longitud,target,mm,True,Original landmark/source mapping requires author confirmation
+Muslo_clearance,target,mm,True,Original landmark/source mapping requires author confirmation
+Trocanter_altura,input,mm,False,Original landmark/source mapping requires author confirmation
+Iliocristal_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Cadera_anchura,target,mm,True,Original landmark/source mapping requires author confirmation
+Nalga_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Entrepierna_altura,target,mm,True,Original landmark/source mapping requires author confirmation
+Cadera_anchura_sentado,target,mm,True,Original landmark/source mapping requires author confirmation
+Rodilla_altura_sentado,input,mm,False,Original landmark/source mapping requires author confirmation
+Poplitea_altura_sentado,target,mm,True,Original landmark/source mapping requires author confirmation
+Nalga_rodilla_longitud,input,mm,False,Original landmark/source mapping requires author confirmation
+Pierna_funcional_longitud,target,mm,True,Original landmark/source mapping requires author confirmation
+Nalga_poplitea_longitud,target,mm,True,Original landmark/source mapping requires author confirmation
+cluster,metadata,metadata,False,Working-table metadata
+poblacion,metadata,metadata,False,Working-table metadata
+percentil_estatura,metadata,metadata,False,Working-table metadata

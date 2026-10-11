@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "clusters": 3,
+  "KMeans_n_init": 20,
+  "GMM_n_init": 5,
+  "scaling": "within-extract StandardScaler",
+  "metric_space": "five standardized dimensions",
+  "seed_sensitivity": [
+    1,
+    123,
+    2026,
+    999
+  ],
+  "tsne": {
+    "perplexity": 30,
+    "init": "pca",
+    "learning_rate": "auto",
+    "max_iter": 1000
+  },
+  "cluster_order": "ascending mean stature within extract; not the master metadata assignment"
+}

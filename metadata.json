@@ -1,0 +1,50 @@
+{
+  "title": "Anthropometric data integration and knee exoskeleton sizing: data and code",
+  "status": "prepared_local_code_and_aggregate_results",
+  "licenses": [
+    {
+      "id": "MIT",
+      "scope": "Original software included in this package",
+      "file": "LICENSE-CODE"
+    },
+    {
+      "id": "CC-BY-4.0",
+      "scope": "Original aggregate results and documentation included in this package",
+      "file": "LICENSE-DATA"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Raymundo Macías González",
+      "orcid": "0000-0001-7098-5851",
+      "affiliation": "Universidad Autónoma de Ciudad Juárez"
+    },
+    {
+      "name": "Javier Antonio Campos Notario",
+      "orcid": "0009-0003-5792-8571",
+      "affiliation": "Universidad Autónoma de Ciudad Juárez"
+    },
+    {
+      "name": "David Luviano Cruz",
+      "orcid": "0000-0002-4778-8873",
+      "affiliation": "Universidad Autónoma de Ciudad Juárez"
+    },
+    {
+      "name": "Alma Guadalupe Rodríguez Ramírez",
+      "orcid": "0000-0002-9854-1387",
+      "affiliation": "Universidad Autónoma de Ciudad Juárez"
+    },
+    {
+      "name": "Francesco García-Luna",
+      "orcid": "0000-0002-8571-914X",
+      "affiliation": "Universidad Autónoma de Ciudad Juárez"
+    }
+  ],
+  "external_source_archive_included": false,
+  "participant_material_review_required": false,
+  "license_scope_document": "docs/LICENSING.md",
+  "participant_material_included": false,
+  "independent_model_fitting_reproducible_from_package": false,
+  "version": "1.0.0",
+  "artifact_type": "code_and_aggregate_results"
+}

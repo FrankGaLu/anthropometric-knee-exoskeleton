@@ -1,0 +1,76 @@
+model,target,mae_mm,rmse_mm
+Training mean,Tobillo_circunferencia,9.935354779,12.19133221
+Training mean,Maleolo_lateral_altura,4.367418447,5.610442045
+Training mean,Tobillo_talon_circunferencia,12.60632811,15.58595955
+Training mean,Talon_anchura,3.966826318,5.008816694
+Training mean,Pie_circunferencia,9.515755386,12.04162894
+Training mean,Pie_anchura,4.274971555,5.443416903
+Training mean,Bimaleolar_altura,3.017778945,3.752057343
+Training mean,Pantorrilla_circunferencia,17.92334924,22.23143086
+Training mean,Pantorrilla_altura,18.38310593,23.00178781
+Training mean,Pantorrilla_longitud,19.22334894,24.54308175
+Training mean,Rodilla_circunferencia,16.68668797,20.27166957
+Training mean,Rotula_medial_altura,22.11599019,28.16418911
+Training mean,Epicondilo_femoral_lat_altura,20.80750392,26.77387971
+Training mean,Muslo_circunferencia_distal,20.26914685,24.60076839
+Training mean,Muslo_circunferencia_proximal,35.99468231,44.71242474
+Training mean,Muslo_longitud,20.3434134,25.82982968
+Training mean,Muslo_clearance,9.769745916,11.97511678
+Training mean,Iliocristal_altura,41.2719083,53.10723075
+Training mean,Cadera_anchura,15.03426619,19.10177097
+Training mean,Nalga_altura,37.23442494,47.8207986
+Training mean,Entrepierna_altura,37.22366281,47.57355397
+Training mean,Cadera_anchura_sentado,18.95098492,23.55700116
+Training mean,Poplitea_altura_sentado,19.99635126,25.32248192
+Training mean,Pierna_funcional_longitud,39.96740577,51.42105749
+Training mean,Nalga_poplitea_longitud,20.02236326,25.921115
+Ridge,Tobillo_circunferencia,7.879215285,9.699256871
+Ridge,Maleolo_lateral_altura,3.625739502,4.606892823
+Ridge,Tobillo_talon_circunferencia,6.811035536,8.432159882
+Ridge,Talon_anchura,3.269933593,4.075545575
+Ridge,Pie_circunferencia,7.281563657,9.256864738
+Ridge,Pie_anchura,3.568275991,4.492352975
+Ridge,Bimaleolar_altura,2.190194824,2.816365773
+Ridge,Pantorrilla_circunferencia,14.88031307,18.41333427
+Ridge,Pantorrilla_altura,8.238016377,10.43913929
+Ridge,Pantorrilla_longitud,5.787477245,7.250835397
+Ridge,Rodilla_circunferencia,12.14461516,15.07195102
+Ridge,Rotula_medial_altura,5.348832726,6.560927477
+Ridge,Epicondilo_femoral_lat_altura,4.365663708,5.526770559
+Ridge,Muslo_circunferencia_distal,15.80483835,19.4377955
+Ridge,Muslo_circunferencia_proximal,28.08394345,34.61027711
+Ridge,Muslo_longitud,4.365645589,5.526748484
+Ridge,Muslo_clearance,7.699855096,9.548485949
+Ridge,Iliocristal_altura,8.557675728,10.86394138
+Ridge,Cadera_anchura,12.09791761,15.08989436
+Ridge,Nalga_altura,9.588034573,12.70712148
+Ridge,Entrepierna_altura,10.89367069,13.69715648
+Ridge,Cadera_anchura_sentado,15.20277688,19.02052153
+Ridge,Poplitea_altura_sentado,5.393300241,6.796579647
+Ridge,Pierna_funcional_longitud,9.895695381,12.67345581
+Ridge,Nalga_poplitea_longitud,5.151799398,8.090066562
+MLP,Tobillo_circunferencia,7.812756256,9.695836061
+MLP,Maleolo_lateral_altura,3.611644488,4.570121224
+MLP,Tobillo_talon_circunferencia,6.893881237,8.439155648
+MLP,Talon_anchura,3.242074445,4.061913287
+MLP,Pie_circunferencia,7.354411722,9.328078782
+MLP,Pie_anchura,3.612474906,4.525562282
+MLP,Bimaleolar_altura,2.210284344,2.840229546
+MLP,Pantorrilla_circunferencia,14.87625819,18.54992622
+MLP,Pantorrilla_altura,8.326358181,10.52442118
+MLP,Pantorrilla_longitud,5.798661136,7.298103921
+MLP,Rodilla_circunferencia,12.26409386,15.18714459
+MLP,Rotula_medial_altura,5.396551011,6.602517889
+MLP,Epicondilo_femoral_lat_altura,4.404718178,5.576329052
+MLP,Muslo_circunferencia_distal,16.10739147,19.69718162
+MLP,Muslo_circunferencia_proximal,28.34790313,34.79846564
+MLP,Muslo_longitud,4.576788627,5.749872914
+MLP,Muslo_clearance,7.744653823,9.625527719
+MLP,Iliocristal_altura,8.707405919,11.12254652
+MLP,Cadera_anchura,12.10970521,15.0907832
+MLP,Nalga_altura,9.630850231,12.7712015
+MLP,Entrepierna_altura,10.87389474,13.94233792
+MLP,Cadera_anchura_sentado,15.20951998,19.07891209
+MLP,Poplitea_altura_sentado,5.445176257,6.907833777
+MLP,Pierna_funcional_longitud,9.926400288,12.75422695
+MLP,Nalga_poplitea_longitud,5.497701466,8.489346209

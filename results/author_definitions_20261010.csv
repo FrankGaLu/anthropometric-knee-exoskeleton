@@ -1,0 +1,4 @@
+field,author_reported_case_definition,unit,mapping_status
+Bimaleolar_altura,Floor to lateral malleolus height,mm,Unresolved: BIMALLEOLAR_BRTH denotes breadth; separate Maleolo_lateral_altura exists
+Pantorrilla_longitud,Floor to central calf attachment region,mm,Unresolved: distinguish from Pantorrilla_altura and verify source landmarks
+Muslo_longitud,Standing distance between knee and region below trochanter,mm,Case description supplied; exact source landmarks not verified

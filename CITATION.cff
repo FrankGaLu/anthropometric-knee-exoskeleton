@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this code and aggregate-results package when using it."
+type: software
+title: "Anthropometric prediction: code and aggregate results"
+version: "1.0.0"
+abstract: "Code and aggregate metrics for the five-input anthropometric prediction benchmark. Source population data, participant records and fitted models are not distributed."
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: "Macías González"
+    given-names: "Raymundo"
+    orcid: "https://orcid.org/0000-0001-7098-5851"
+  - family-names: "Campos Notario"
+    given-names: "Javier Antonio"
+    orcid: "https://orcid.org/0009-0003-5792-8571"
+  - family-names: "Luviano Cruz"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-4778-8873"
+  - family-names: "Rodríguez Ramírez"
+    given-names: "Alma Guadalupe"
+    orcid: "https://orcid.org/0000-0002-9854-1387"
+  - family-names: "García-Luna"
+    given-names: "Francesco"
+    orcid: "https://orcid.org/0000-0002-8571-914X"
