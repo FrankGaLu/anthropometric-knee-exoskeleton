@@ -4,7 +4,7 @@ Supporting package for “Anthropometric Data Integration and Held-Out Predictio
 
 Documentation, package filenames and execution messages are in English. Exact source identifiers are retained for compatibility; their English labels and interpretation limits are listed in [Field names](docs/FIELD_NAMES.md).
 
-This package contains original analysis code, aggregate model and target-level metrics, training history, a variable dictionary and an aggregate summary plot. It is prepared locally and has not been deposited publicly. It is not a release of the source population tables or participant-level dataset.
+This package contains original analysis code, aggregate model and target-level metrics, training history, a variable dictionary and an aggregate summary plot. The public repository is https://github.com/FrankGaLu/anthropometric-knee-exoskeleton. It is not a release of the source population tables or participant-level dataset.
 
 ## Run without source data
 
@@ -36,4 +36,4 @@ Raymundo Macías González; Javier Antonio Campos Notario; David Luviano Cruz; A
 
 Correspondence: alma.rodriguez.ram@uacj.mx; francesco.garcia@uacj.mx.
 
-`manifest.csv` records the package files and SHA-256 hashes. `CITATION.cff` supplies author and version metadata; `docs/MDPI_DATA_SCOPE.md` explains the scope represented to the journal. No public URL, DOI or accepted-publication status is asserted. Citation of the associated article and any future deposited version is requested as scholarly practice, without adding license conditions.
+`manifest.csv` records the package files and SHA-256 hashes. `CITATION.cff` supplies author and version metadata; `docs/MDPI_DATA_SCOPE.md` explains the scope represented to the journal. The repository URL is verified. No DOI or accepted-publication status is asserted. Citation of the associated article and any future deposited version is requested as scholarly practice, without adding license conditions.

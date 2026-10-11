@@ -7,9 +7,9 @@ The package provides:
 - Original code under MIT and original aggregate results/documentation under CC BY 4.0, with license scope separated explicitly.
 - Pinned dependencies, execution instructions and checks that run on the included aggregate files.
 - Authorship and ORCID metadata, a citation file and a fixed local version identifier.
-- A SHA-256 inventory of the exact files supplied.
+- A SHA-256 inventory of the exact files supplied. Local changes must be uploaded to update the public copy.
 
-The package does not claim a public repository URL, a DOI, publication acceptance, third-party redistribution rights, consent to release excluded participant material or verification of survey lineage. GitHub upload alone does not establish any of those claims. When deposited, the real URL and version can be cited; no fabricated link is included here.
+The package is publicly hosted at https://github.com/FrankGaLu/anthropometric-knee-exoskeleton. The local metadata version is 1.0.0; this is not evidence of a published GitHub release or DOI. Publication acceptance, third-party redistribution rights, consent to release excluded participant material and verification of survey lineage are not established by GitHub upload.
 
 MDPI Data author instructions distinguish availability in public repositories from third-party and restricted data, and emphasize preservation. This package documents its actual availability and limitations. It does not establish that an article lacking the full source dataset satisfies every editorial requirement; that decision remains with the journal.
 

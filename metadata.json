@@ -1,6 +1,6 @@
 {
   "title": "Anthropometric data integration and knee exoskeleton sizing: data and code",
-  "status": "prepared_local_code_and_aggregate_results",
+  "status": "public_repository_with_local_updates",
   "licenses": [
     {
       "id": "MIT",
@@ -46,5 +46,8 @@
   "participant_material_included": false,
   "independent_model_fitting_reproducible_from_package": false,
   "version": "1.0.0",
-  "artifact_type": "code_and_aggregate_results"
+  "artifact_type": "code_and_aggregate_results",
+  "repository_url": "https://github.com/FrankGaLu/anthropometric-knee-exoskeleton",
+  "repository_visibility": "public",
+  "public_access_verified_on": "2026-10-10"
 }

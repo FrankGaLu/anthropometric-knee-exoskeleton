@@ -6,6 +6,6 @@ This distribution excludes source population tables, individual records/predicti
 
 The scope notice adds no noncommercial, no-derivatives, embargo or extra mandatory-citation condition. It grants no third-party privacy, patent or other rights beyond those covered by the stated licenses. The article's publication license is separate from these repository licenses.
 
-The manuscript describes this as a code-and-aggregate-results package, not as a complete open dataset. No public deposit or DOI is asserted. This scope is consistent across the README, metadata, inventory and manuscript availability statement.
+The manuscript describes this as a code-and-aggregate-results package, not as a complete open dataset. The public repository is https://github.com/FrankGaLu/anthropometric-knee-exoskeleton; no DOI is assigned. This scope is consistent across the README, metadata, inventory and manuscript availability statement.
 
 References: https://creativecommons.org/licenses/by/4.0/legalcode ; https://opensource.org/license/mit ; https://www.mdpi.com/journal/data/instructions .
